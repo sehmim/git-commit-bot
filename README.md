@@ -29,6 +29,10 @@ process.env.COMMIT_MESSAGE ? process.env.COMMIT_MESSAGE : "Bleep Bloop, bot comm
 process.env.COMMIT_CHANGE ? process.env.COMMIT_CHANGE : "Good Day, Sir!"
 ```
 
+```bash
+npm start
+```
+
 ## Try it
 🐛 Report an issue for any bugs 🐛
 
