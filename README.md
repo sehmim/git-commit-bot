@@ -14,7 +14,7 @@ npm install
 ### Add and modify .env file
 ```
 PORT=8000
-REPO=https://github.com/XXXX/XXXXX
+REPO=https://github.com/XXXX/XXXXXBOT_CODE_CHANGE
 USERNAME=XXXX
 PASSWORD=XXXXX
 
